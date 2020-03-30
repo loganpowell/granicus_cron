@@ -1,5 +1,5 @@
 {
-  "name": "ts-starter",
+  "name": "granicus_cron",
   "author": "Logan Powell",
   "license": "MIT",
   "version": "0.2.67",
@@ -7,8 +7,8 @@
   "main": "./lib/index.js",
   "type": "module",
   "types": "./lib/index.d.ts",
-  "repository": "https://github.com/loganpowell/ts-starter",
-  "homepage": "https://github.com/loganpowell/ts-starter",
+  "repository": "https://github.com/loganpowell/granicus_cron",
+  "homepage": "https://github.com/loganpowell/granicus_cron",
   "scripts": {
     "typewatch": "tsc --project tsconfig.json",
     "types": "tsc --project tsconfig.build.json",
